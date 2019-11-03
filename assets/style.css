@@ -10,6 +10,16 @@ body {
     margin: auto;
 }
 
+.ribbon {
+    background-color: #4aaaa5;
+    position: relative;
+    bottom: 20%;
+    left: 20px;
+    width: 276px;
+    text-align: center;
+    line-height: 40px;
+}
+
 #brand {
     background-color: #4aaaa5;
     color: #ffffff;
@@ -28,4 +38,10 @@ body {
 
 #portfolioImage {
     padding: 20px;
+    display: block;
+    text-align: center;
+}
+
+#link {
+    color: #fff;
 }
